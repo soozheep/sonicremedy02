@@ -10,7 +10,7 @@ const PLAYLIST = [
   { num: 3, title: 'Discomfort As a Compass', full: 'Discomfort As a Compass', cover: 'assets/covers/af2-cover-03.png', track: 'assets/tracks/af2-03.mp3', page: 'https://discomfortasacompass.vercel.app' },
   { num: 4, title: 'Creating Reality', full: 'Creating Reality', cover: 'assets/covers/af2-cover-04.png', track: 'assets/tracks/af2-04.mp3', page: 'https://creatingreality.vercel.app' },
   { num: 5, title: 'Find a Way to Play', full: 'Find a Way to Play', cover: 'assets/covers/af2-cover-05.png', track: 'assets/tracks/af2-05.mp3', page: 'https://findawaytoplay.vercel.app' },
-  { num: 6, title: 'Right of Way', full: 'Right of Way', cover: 'assets/covers/af2-cover-06.png', track: 'assets/tracks/af2-06.mp3', page: 'https://rightofway.vercel.app' },
+  { num: 6, title: 'Right of Way', full: 'Right of Way', cover: 'assets/covers/af2-cover-06.png', track: 'assets/tracks/af2-06.mp3', page: 'https://rightofway-soozhee.vercel.app' },
   { num: 7, title: 'Walk Your Own Path', full: 'Walk Your Own Path', cover: 'assets/covers/af2-cover-07.png', track: 'assets/tracks/af2-07.mp3', page: 'https://walkyourownpath.vercel.app' },
   { num: 8, title: 'Thank You for Betting Your Life on Me', full: 'Thank You for Betting Your Life on Me', cover: 'assets/covers/af2-cover-08.png', track: 'assets/tracks/af2-08.mp3', page: 'https://thankyouforbettingyourlifeonme.vercel.app' },
   { num: 9, title: "He Said It Wasn't a Bet", full: "He Said It Wasn't a Bet", cover: 'assets/covers/af2-cover-09.png', track: 'assets/tracks/af2-09.mp3', page: 'https://hesaiditwasntabet.vercel.app' },
